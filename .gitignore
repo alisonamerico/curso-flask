@@ -130,3 +130,9 @@ dmypy.json
 
 # Vscode
 .vscode/
+
+# htmlcov
+htmlcov/
+
+# delivery.egg-info
+delivery.egg-info/
